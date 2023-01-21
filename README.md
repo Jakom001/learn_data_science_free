@@ -50,7 +50,7 @@ Week 1
 *Must: sure to complete at least one course*
 1. AI Planet: https://aiplanet.com/ - Free certifications
 (Choose your track 👇)
-- [Data Analist](https://aiplanet.com/learning-paths/data-analyst-with-python)
+- [Data Analyst](https://aiplanet.com/learning-paths/data-analyst-with-python)
 - [Data Scientist](https://aiplanet.com/learning-paths/data-scientist-with-python)
 - [ML / AI Scientist](https://aiplanet.com/learning-paths/machine-learning-and-ai-scientist-with-python)
 2. Learn with Google - Free Cetifications:
