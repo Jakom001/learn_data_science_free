@@ -33,7 +33,7 @@ Get it: [Here](https://www.py4e.com/) or [Coursera](https://www.coursera.org/spe
  - [Automate the boring stuff with python get](https://automatetheboringstuff.com/)
 
 ## PRACTICE PYTHON
-Check whether you understanda python.
+Check your knowledge in python.
 
 0. [Dataquest](https://www.dataquest.io/blog/python-practice/)
 1. [Leetcode](https://leetcode.com/problemset/all/)
@@ -42,3 +42,34 @@ Check whether you understanda python.
 4. [Code Wars](https://www.codewars.com/)
 5. [Coderbyte](https://www.coderbyte.com/)
 6. [Exercism](https://exercism.org/)
+
+
+## DATA SCIENCE COURSES
+Week 1
+
+*Must: sure to complete at least one course*
+1. AI Planet: https://aiplanet.com/ - Free certifications
+(Choose your track 👇)
+- [Data Analist](https://aiplanet.com/learning-paths/data-analyst-with-python)
+- [Data Scientist](https://aiplanet.com/learning-paths/data-scientist-with-python)
+- [ML / AI Scientist](https://aiplanet.com/learning-paths/machine-learning-and-ai-scientist-with-python)
+2. Learn with Google - Free Cetifications:
+- i) [Learn Python basics for data analysis](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)
+- ii) [Data Science Foundations](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations)
+- iii) [Data Science with Python](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python)
+- iv) [Machine Learning Crash Course](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python)
+- iv) [Intro to TensorFlow for Deep Learning](https://learndigital.withgoogle.com/digitalunlocked/course/intro-to-tensorflow-for-deep-learning)
+
+3. Learn with IBM
+- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+- [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python)
+- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-python)
+
+4. Learn with Microsoft
+- [Data-Science-For-Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
+- [Machine Learning-For-Beginners](https://microsoft.github.io/ML-For-Beginners/#/)
+- [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/)
+- [Get started with Microsoft data analytics](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)
+- [Prepare data for analysis](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)
+- [Data analysis in Power BI](https://learn.microsoft.com/en-us/training/paths/perform-analytics-power-bi/)
+- [Visualize data in Power BI](https://learn.microsoft.com/en-us/training/paths/visualize-data-power-bi/)
